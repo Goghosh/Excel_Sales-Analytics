@@ -3,7 +3,7 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report]
+    **1.** Create a _[customer performance report]-
 
     **2.** Conduct a comprehensive comparison between _
 
@@ -18,8 +18,8 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by 
-   **2.** Create Profit and Loss (P&L) reports by _
+    **1.** Create Profit and Loss (P&L) reports by-
+   **2.** Create Profit and Loss (P&L) reports by-
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
 - **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
